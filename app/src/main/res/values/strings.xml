@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth_Demo</string>
+    <string name="string_bt_turn_on">Turn on</string>
+    <string name="string_bt_find">Find</string>
+    <string name="string_bt_turn_off">Turn off</string>
+    <string name="string_bt_send_msg">Send Message</string>
+</resources>
